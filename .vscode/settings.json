@@ -2,5 +2,13 @@
     "workbench.editor.defaultBinaryEditor": "default",
     "workbench.editor.enablePreviewFromCodeNavigation": true,
     "workbench.editor.enablePreviewFromQuickOpen": true,
-    "workbench.editor.highlightModifiedTabs": true
+    "workbench.editor.highlightModifiedTabs": true,
+    "javascript.experimental.updateImportsOnPaste": true,
+    "json.format.keepLines": true,
+    "json.trace.server": "messages",
+    "microsoft-sovereign-cloud.environment": "custom",
+    "microsoft.useMsal": true,
+    "npm.enableRunFromFolder": true,
+    "npm.runSilent": true,
+    "javascript.inlayHints.parameterNames.enabled": "all"
 }
